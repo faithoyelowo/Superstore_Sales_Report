@@ -70,7 +70,7 @@ Build a dynamic, decision-ready Excel framework that aggregates operational and 
 
 ### View the Interactive Dashboard
 
-View the live dashboard [here](Superstore_data_Capstone_Project.xlsx)
+View the live dashboard [here](Report/Superstore_data_Capstone_Project.xlsx)
 
 ### Dashboard Pages
 
